@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RoKE8uLGSKMeJKj0iVepPg+MuQ+19gl+yPfBaeNe3YYNZYrHu6iUqNrckCXDODc2hFQfOCOh22B8xG3d00KPWg==",
+  "success": true,
+  "projectFilePath": "/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding.iOS/StringFormatBinding.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/edrodriguez/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/edrodriguez/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/edrodriguez/.nuget/packages/xamarin.forms/5.0.0.1931/xamarin.forms.5.0.0.1931.nupkg.sha512"
+  ],
+  "logs": []
+}

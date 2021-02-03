@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A40C7939-94F5-4E74-B2A7-85CB56D3C43F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringFormatBinding/MainPage.xaml">
+    <Files>
+      <File FileName="StringFormatBinding/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringFormatBinding" expanded="True">
+            <Node name="StringFormatBinding" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StringFormatBinding.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.64DFBDCD-0918-4EF5-9169-EAA07503883C" />
+  <MonoDevelop.Ide.ItemProperties.StringFormatBinding.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+</Properties>

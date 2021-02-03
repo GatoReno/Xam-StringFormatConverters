@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="StringFormatBinding.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:converters="clr-namespace:StringFormatBinding.converters">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:BooleanToStringConverter x:Key="boolToString" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <Frame
+            Padding="24"
+            BackgroundColor="#2196F3"
+            CornerRadius="0">
+            <Label
+                Padding="16"
+                FontSize="36"
+                HorizontalTextAlignment="Center"
+                Text="Welcome to Binding Format!"
+                TextColor="White" />
+        </Frame>
+        <Label Padding="30,10,30,10" Text="Card List" />
+
+        <StackLayout Padding="20">
+            <ListView
+                HasUnevenRows="True"
+                ItemsSource="{Binding Cards}"
+                SelectedItem="{Binding CardSelected}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <RadioButton IsChecked="{Binding CardOnUsing}" />
+
+                                <Label Padding="10" Text="{Binding ., StringFormat='{0:CardMask}'}" />
+                                <Label Text="{Binding CardOnUsing, Converter={StaticResource boolToString}}" VerticalOptions="Center" />
+                                <Label
+                                    Padding="10"
+                                    HorizontalOptions="EndAndExpand"
+                                    Text="{Binding ., StringFormat='{0:ExpirationDate}'}" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </StackLayout>
+
+
+</ContentPage>

@@ -1,0 +1,14 @@
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/bin/Debug/netstandard2.0/StringFormatBinding.deps.json
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/bin/Debug/netstandard2.0/StringFormatBinding.dll
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/bin/Debug/netstandard2.0/ref/StringFormatBinding.dll
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/bin/Debug/netstandard2.0/StringFormatBinding.pdb
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/obj/Debug/netstandard2.0/StringFormatBinding.AssemblyInfoInputs.cache
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/obj/Debug/netstandard2.0/StringFormatBinding.AssemblyInfo.cs
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/obj/Debug/netstandard2.0/StringFormatBinding.csproj.CoreCompileInputs.cache
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/obj/Debug/netstandard2.0/StringFormatBinding.dll
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/obj/Debug/netstandard2.0/ref/StringFormatBinding.dll
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/obj/Debug/netstandard2.0/StringFormatBinding.pdb
+/Users/edrodriguez/projects/StringFormatBinding/StringFormatBinding/obj/Debug/netstandard2.0/StringFormatBinding.csprojAssemblyReference.cache
